@@ -7,6 +7,7 @@ A 3D map creator that utilizes OpenGL
 - Generate and render map walls
 - Roam around 3D space
 # How to Use Map Creator
+[Imgur](https://i.imgur.com/7LsFd2p.gifv)
 - Click points on grid to make corners
 - DO NOT enclose map (An enclosing wall will be automatically generated)
 - Press ENTER to generate map
