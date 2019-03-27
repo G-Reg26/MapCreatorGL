@@ -10,7 +10,7 @@ A 3D map creator that utilizes OpenGL
 - Click points on grid to make corners
 - DO NOT enclose map (An enclosing wall will be automatically generated)
 - Press ENTER to generate map
-- Press BACKSPACE to delete maps
+- Press BACKSPACE to delete map
 # World Space Controls:
 - Movement: WASD
 - Look around: Arrow keys
