@@ -1,0 +1,2 @@
+# MapCreatorGL
+OpenGL map creator
