@@ -23,5 +23,5 @@ A 3D map creator that utilizes OpenGL
 Development halted until undetermined date
 # Credits
 Author: Gregorio Lozada</br>
-Some source code for rendering provided by TheBennyBox's Modern OpenGL tutorials:</br>
+Source code for rendering were from steps provided by TheBennyBox's Modern OpenGL tutorials:</br>
 https://www.youtube.com/playlist?list=PLEETnX-uPtBXT9T-hD0Bj31DSnwio-ywh
