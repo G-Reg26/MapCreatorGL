@@ -6,6 +6,16 @@ A 3D map creator that utilizes OpenGL
 - Set map walls
 - Generate and render map walls
 - Roam around 3D space
+# Visual Studio Installation
+1. Download .zip file
+2. Extract to desired directory
+3. Open Visual Studio
+4. Go to File->Open->Project/Solution
+5. Navigate to project folder
+6. Select project solution (Microsoft Visual Studio Solution file) and Open
+7. Set project configuration to Debug x86
+![Imgur](https://i.imgur.com/kPL7tkc.png)
+8. Run program
 # How to Use Map Creator
 - Click points on grid to make corners
 - DO NOT enclose map (An enclosing wall will be automatically generated)
